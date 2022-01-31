@@ -1,0 +1,15 @@
+/Users/daniil/VS Code/project/bin/Debug/net6.0/project
+/Users/daniil/VS Code/project/bin/Debug/net6.0/project.deps.json
+/Users/daniil/VS Code/project/bin/Debug/net6.0/project.runtimeconfig.json
+/Users/daniil/VS Code/project/bin/Debug/net6.0/project.dll
+/Users/daniil/VS Code/project/bin/Debug/net6.0/ref/project.dll
+/Users/daniil/VS Code/project/bin/Debug/net6.0/project.pdb
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.dll
+/Users/daniil/VS Code/project/obj/Debug/net6.0/ref/project.dll
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.pdb
+/Users/daniil/VS Code/project/obj/Debug/net6.0/project.genruntimeconfig.cache
