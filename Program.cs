@@ -2,9 +2,8 @@
 
  namespace Namespace {
      internal class Class {
-         static void Main(string[] args) {
-            Console.WriteLine(12);
-            
-         }
-     }
+        static void Main(string[] args) {
+           Console.WriteLine(12); 
+        } 
+    }
  }
